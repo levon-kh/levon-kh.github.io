@@ -74,7 +74,7 @@ og_image                 :  # Open Graph/Twitter default site image
 
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : Kristian López Vargas # If the user or organization name differs from the site's name
+  name                   : Levon Khachatryan # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
@@ -93,7 +93,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Senior Machine Learning Researcher at PAIR / Lecturer at YSU"
   location         : "Yerevan, Armenia"
-  employer         : "Picsart / YSU"
+  # employer         : "Picsart / YSU"
   uri              : # URL
   email            : "lev1khachatryan@yahoo.com" 
 
@@ -132,7 +132,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "lev1khachatryan"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
